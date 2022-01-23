@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/metalGaseforent/static/css/main.4bbacb71.chunk.css",
+    "main.js": "/metalGaseforent/static/js/main.fcf6ea19.chunk.js",
+    "main.js.map": "/metalGaseforent/static/js/main.fcf6ea19.chunk.js.map",
+    "runtime-main.js": "/metalGaseforent/static/js/runtime-main.3aedaae4.js",
+    "runtime-main.js.map": "/metalGaseforent/static/js/runtime-main.3aedaae4.js.map",
+    "static/css/2.468f784f.chunk.css": "/metalGaseforent/static/css/2.468f784f.chunk.css",
+    "static/js/2.704fb86c.chunk.js": "/metalGaseforent/static/js/2.704fb86c.chunk.js",
+    "static/js/2.704fb86c.chunk.js.map": "/metalGaseforent/static/js/2.704fb86c.chunk.js.map",
+    "index.html": "/metalGaseforent/index.html",
+    "static/css/2.468f784f.chunk.css.map": "/metalGaseforent/static/css/2.468f784f.chunk.css.map",
+    "static/css/main.4bbacb71.chunk.css.map": "/metalGaseforent/static/css/main.4bbacb71.chunk.css.map",
+    "static/js/2.704fb86c.chunk.js.LICENSE.txt": "/metalGaseforent/static/js/2.704fb86c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/metalGaseforent/static/media/breadcrumbs.7717bed6.jpg",
+    "static/media/all.min.css": "/metalGaseforent/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/img.2f6983ca.png": "/metalGaseforent/static/media/img.2f6983ca.png",
+    "static/media/kT1yJX5.cc4223b6.jpg": "/metalGaseforent/static/media/kT1yJX5.cc4223b6.jpg",
+    "static/media/Home.css": "/metalGaseforent/static/media/landing.776947fa.jpg",
+    "static/media/logo.293fa5e4.jpeg": "/metalGaseforent/static/media/logo.293fa5e4.jpeg",
+    "static/media/pexels-anamul-rezwan-1145434.4015dddb.jpg": "/metalGaseforent/static/media/pexels-anamul-rezwan-1145434.4015dddb.jpg",
+    "static/media/pexels-athena-3417668.55c3e58f.jpg": "/metalGaseforent/static/media/pexels-athena-3417668.55c3e58f.jpg",
+    "static/media/pexels-lalesh-aldarwish-147635.0090605b.jpg": "/metalGaseforent/static/media/pexels-lalesh-aldarwish-147635.0090605b.jpg",
+    "static/media/pexels-mitchell-luo-3685210 (1).3450da69.jpg": "/metalGaseforent/static/media/pexels-mitchell-luo-3685210 (1).3450da69.jpg",
+    "static/media/pexels-pixabay-220237.5b5186bb.jpg": "/metalGaseforent/static/media/pexels-pixabay-220237.5b5186bb.jpg",
+    "static/media/pexels-pixabay-266896.7be22cd9.jpg": "/metalGaseforent/static/media/pexels-pixabay-266896.7be22cd9.jpg",
+    "static/media/pexels-pixabay-327041.4cc9ce79.jpg": "/metalGaseforent/static/media/pexels-pixabay-327041.4cc9ce79.jpg",
+    "static/media/pexels-pixabay-327049.2b4779e9.jpg": "/metalGaseforent/static/media/pexels-pixabay-327049.2b4779e9.jpg",
+    "static/media/pexels-pixabay-73833.b9eece1b.jpg": "/metalGaseforent/static/media/pexels-pixabay-73833.b9eece1b.jpg",
+    "static/media/pexels-vedanti-242616.208957a5.jpg": "/metalGaseforent/static/media/pexels-vedanti-242616.208957a5.jpg",
+    "static/media/pexels-väinö-parjanen-3853870.81c1b83c.jpg": "/metalGaseforent/static/media/pexels-väinö-parjanen-3853870.81c1b83c.jpg",
+    "static/media/production ID_5055608.bbc13f64.mp4": "/metalGaseforent/static/media/production ID_5055608.bbc13f64.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3aedaae4.js",
+    "static/css/2.468f784f.chunk.css",
+    "static/js/2.704fb86c.chunk.js",
+    "static/css/main.4bbacb71.chunk.css",
+    "static/js/main.fcf6ea19.chunk.js"
+  ]
+}
