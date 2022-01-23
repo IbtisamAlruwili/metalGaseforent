@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/metalGaseforent/static/css/main.4bbacb71.chunk.css",
-    "main.js": "/metalGaseforent/static/js/main.e81e0730.chunk.js",
-    "main.js.map": "/metalGaseforent/static/js/main.e81e0730.chunk.js.map",
+    "main.js": "/metalGaseforent/static/js/main.c114ba51.chunk.js",
+    "main.js.map": "/metalGaseforent/static/js/main.c114ba51.chunk.js.map",
     "runtime-main.js": "/metalGaseforent/static/js/runtime-main.3aedaae4.js",
     "runtime-main.js.map": "/metalGaseforent/static/js/runtime-main.3aedaae4.js.map",
     "static/css/2.468f784f.chunk.css": "/metalGaseforent/static/css/2.468f784f.chunk.css",
@@ -36,6 +36,6 @@
     "static/css/2.468f784f.chunk.css",
     "static/js/2.a6ca6696.chunk.js",
     "static/css/main.4bbacb71.chunk.css",
-    "static/js/main.e81e0730.chunk.js"
+    "static/js/main.c114ba51.chunk.js"
   ]
 }
